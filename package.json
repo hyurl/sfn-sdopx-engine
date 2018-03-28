@@ -1,0 +1,28 @@
+{
+  "name": "sfn-sdopx-engine",
+  "version": "0.1.0",
+  "description": "Sdopx template engine for sfn framework.",
+  "main": "dist/index.js",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sfn",
+    "sdopx"
+  ],
+  "author": {
+    "name": "Ayon Lee",
+    "email": "i@hyurl.com",
+    "url": "http://hyurl.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyurl/sfn-sdopx-engine.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^9.6.0",
+    "sdopx": "^1.2.25"
+  }
+}
